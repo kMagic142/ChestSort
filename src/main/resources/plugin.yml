@@ -1,0 +1,9 @@
+name: ChestSort
+version: '${project.version}'
+main: ro.kmagic.chestsort.ChestSort
+api-version: 1.18
+authors: [ kMagic ]
+description: Automatically sort chests
+
+commands:
+  sortchest:
